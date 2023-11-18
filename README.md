@@ -38,3 +38,7 @@
 - chilizTestnet (spicy) : http://spicy-explorer.chiliz.com
 
 - zKatana (Astar zkEVM) : https://zkatana.explorer.startale.com/
+
+## Other Repos
+
+- Interface : https://github.com/bibitto/Arachne-Interface
