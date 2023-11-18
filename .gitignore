@@ -3,7 +3,8 @@ cache/
 out/
 
 # Ignores development broadcast logs
-!/broadcast
+broadcast
+# !/broadcast
 /broadcast/*/31337/
 /broadcast/**/dry-run/
 
@@ -12,3 +13,15 @@ docs/
 
 # Dotenv file
 .env
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache_hardhat/
+artifacts
+
