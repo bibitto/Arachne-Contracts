@@ -11,17 +11,30 @@
 
 ## Supported Networks
 
-- goerli
-- mumbai
-- fuji
-- opGoerli
-- arbGoerli
-- scrollSepolia
-- baseTestnet
-- LineaTestnet
-- mantleTestnet
-- neonDevnet
-- celoTestnet (alfajores)
-- gnosisTestnet (chiado)
-- chilizTestnet (spicy)
-- zKatana (Astar zkEVM)
+- goerli : https://goerli.etherscan.io
+
+- mumbai : https://mumbai.polygonscan.com
+
+- fuji : https://testnet.snowtrace.io
+
+- opGoerli : https://goerli-optimism.etherscan.io
+
+- arbGoerli : https://goerli.arbiscan.io
+
+- scrollSepolia : https://blockscout.scroll.io
+
+- baseTestnet : https://goerli.basescan.org
+
+- LineaTestnet : https://goerli.lineascan.build
+
+- mantleTestnet : https://explorer.testnet.mantle.xyz
+
+- neonDevnet : https://devnet.neonscan.org
+
+- celoTestnet (alfajores) : https://alfajores.celoscan.io/
+
+- gnosisTestnet (chiado) : https://blockscout.chiadochain.net
+
+- chilizTestnet (spicy) : http://spicy-explorer.chiliz.com
+
+- zKatana (Astar zkEVM) : https://zkatana.explorer.startale.com/
