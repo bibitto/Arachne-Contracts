@@ -43,6 +43,8 @@ By using the Arachne Protocol, your NFTs can hold assets and interact with dApps
 
 - zKatana (Astar zkEVM) : https://zkatana.explorer.startale.com/
 
+- polygonZkevmTestnet : https://testnet-zkevm.polygonscan.com
+
 ## Other Repos
 
 - Interface : https://github.com/bibitto/Arachne-Interface
