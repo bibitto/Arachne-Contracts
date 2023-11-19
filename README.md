@@ -1,3 +1,7 @@
+## Projet Overview
+
+By using the Arachne Protocol, your NFTs can hold assets and interact with dApps on any EVM chain. This means you no longer have to worry about the specific chain when using NFTs, introducing a new way of Chain Abstraction. It was developed using ERC6551 and the Lit Protocol.
+
 ## Contract Addresses
 
 - **CREATE2_FACTORY**: 0x280bAc6BCC6eE78E462e1e54EebAEB8f681a642A
