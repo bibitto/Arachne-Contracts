@@ -96,6 +96,11 @@ const config: HardhatUserConfig = {
       accounts: [process.env.PRIVATE_KEY || ""],
       chainId: 59140,
     },
+    polygonZkevmTestnet: {
+      url: process.env.POLYGON_ZKEVM_TESTNET_RPC_URL || "",
+      accounts: [process.env.PRIVATE_KEY || ""],
+      chainId: 1442,
+    },
   },
   etherscan: {
     apiKey: {

@@ -23,7 +23,8 @@
     "deploy:celoTestnet": "npx hardhat run script/deploy.ts --network celoTestnet",
     "deploy:neonDevnet": "npx hardhat run script/deploy.ts --network neonDevnet",
     "deploy:lineaTestnet": "npx hardhat run script/deploy.ts --network lineaTestnet",
-    "deploy:scrollSepolia": "npx hardhat run script/deploy.ts --network scrollSepolia"
+    "deploy:scrollSepolia": "npx hardhat run script/deploy.ts --network scrollSepolia",
+    "deploy:polygonZkevmTestnet": "npx hardhat run script/deploy.ts --network polygonZkevmTestnet"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.1",
