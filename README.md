@@ -21,7 +21,7 @@
 
 - arbGoerli : https://goerli.arbiscan.io
 
-- scrollSepolia : https://blockscout.scroll.io
+- scrollSepolia : https://sepolia.scrollscan.com/
 
 - baseTestnet : https://goerli.basescan.org
 
